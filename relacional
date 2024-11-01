@@ -1,0 +1,5 @@
+Modelo realcional 
+-conjunto de relaciones
+-cada relacion tiene un conjunto de filas y un conjunto de columnas
+-cada relacion tiene un identificador (PK)
+-cada relacion se vinvula con otra exportando su (PK)
